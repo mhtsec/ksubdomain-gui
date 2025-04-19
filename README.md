@@ -2,7 +2,7 @@
 本项目基于KSubdomain 本项目基于KSubdomain是一款基于无状态技术的子域名爆破工具，带来前所未有的扫描速度和极低的内存占用。 告别传统工具的效率瓶颈，体验闪电般的 DNS 查询，同时拥有可靠的状态表重发机制，确保结果的完整性。 KSubdomain 支持 Windows、Linux 和 macOS，是进行大规模DNS资产探测的理想选择。
 原项目：[https://github.com/boy-hack/ksubdomain/](https://github.com/boy-hack/ksubdomain/)
 
-注意！mac使用需要在命令行使用sudo执行，否则识别不到网卡
+注意！mac使用需要在命令行使用sudo执行，否则没有网卡权限
 ## 预览
 ![image](https://github.com/user-attachments/assets/c5ca0088-851d-4b9d-aebe-9332c37e75b0)
 
